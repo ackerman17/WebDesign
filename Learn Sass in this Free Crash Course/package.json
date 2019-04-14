@@ -1,0 +1,11 @@
+{
+  "name": "sass-mastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch app/sass:public/stylesheets"
+  },
+  "author": "",
+  "license": "ISC"
+}
